@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Food List</string>
+    <string name="pudding"> Italian dessert of sweetened cream thickened with gelatin and molded. \n The cream may be aromatized with coffee, vanilla, or other flavorings.\n Panna cotta is often served with a coulis of berries, or a sauce of caramel or chocolate.
+        \n It may be covered with other fruits or liqueurs.\n
+        \n <font size="22"><b>Ingredients : </b></font>
+        \n 1/3 cup skim milk
+        \n 1 (.25 ounce) envelope unflavored gelatin.
+        \n 2 1/2 cups heavy cream
+        \n 1/2 cup white sugar
+        \n 1 1/2 teaspoons vanilla extract
+        \n\n <font size="22"><b>How to Make</b></font>
+        \n 1. Pour milk into a small bowl, and stir in the gelatin powder. Set aside.
+        \n 2. In a saucepan, stir together the heavy cream and sugar, and set over medium heat. Bring to a full boil, watching carefully, as the cream will quickly rise to the top of the pan. Pour the gelatin and milk into the cream, stirring until completely dissolved. Cook for one minute, stirring constantly. Remove from heat, stir in the vanilla and pour into six individual ramekin dishes.
+        \n 3. Cool the ramekins uncovered at room temperature. When cool, cover with plastic wrap, and refrigerate for at least 4 hours, but preferably overnight before serving.
+    </string>
+    <string name="bread">Staple food prepared from a dough of flour and water, usually by baking.
+        \n\n <font size="22"><b>Ingredients : </b></font>
+        \n 1 package (1/4 ounce) active dry yeast
+        \n 2 1/4 cups warm water (110° to 115°)
+        \n 3 tablespoons sugar plus 1/2 teaspoon sugar
+        \n 1 tablespoon salt
+        \n 2 tablespoons canola oil
+        \n 6 1/4 to 6 3/4 cups bread flour
+        \n\n <font size="22"><b>How to Make</b></font>
+        \n 1. In a large bowl, dissolve yeast and 1/2 teaspoon sugar in warm water; let stand until bubbles form on surface. Whisk together remaining 3 tablespoons sugar, salt, and 3 cups flour. Stir oil into yeast mixture; pour into flour mixture and beat until smooth. Stir in enough remaining flour, 1/2 cup at a time, to form a soft dough.
+        \n 2. Turn onto a floured surface; knead until smooth and elastic, 8-10 minutes. Place in a greased bowl, turning once to grease the top. Cover and let rise in a warm place until doubled, about 1-1/2 to 2 hours.
+        \n 3. Punch dough down. Turn onto a lightly floured surface; divide dough in half. Shape each into a loaf. Place in 2 greased 9x5-in. loaf pans. Cover and let rise until doubled, about 1 to 1-1/2 hours.
+        \n 4. Bake at 375° until golden brown and bread sounds hollow when tapped or has reached an internal temperature of 200°, 30-35 minutes. Remove from pans to wire racks to cool.
+    </string>
+    <string name="cookies">Baked or cooked food that is typically small, flat and sweet. \n It usually contains flour, sugar and some type of oil or fat. It may include other ingredients such as raisins, oats, chocolate chips, nuts, etc.
+        \n\n <font size="22"><b>Ingredients : </b></font>
+        \n 3/4 cup packed brown sugar
+        \n 1/2 cup butter, softened
+        \n 2 cups rolled oats \t\t\t\t\t\t\t\t\t\t\t\t
+        \n 2 teaspoons ground cinnamon \t\t\t\t\t\t\t
+        \n 1/2 teaspoon salt \t\t\t\t\t\t\t\t\t\t\t\t
+        \n 1/2 cup chopped walnuts  \t\t\t\t\t\t\t\t\t
+        \n 2 eggs
+        \n 1 teaspoon vanilla extract
+        \n 1 cup all-purpose flour
+        \n 1/2 teaspoon baking soda
+        \n 1 apple - peeled, cored and shredded
+        \n 1/2 cup confectioners\' sugar
+        \n 1 tablespoon milk
+        \n\n <font size="22"><b>How to Make : </b></font>
+        \n 1. Preheat oven to 375 degrees F.
+        \n 2. Mix together brown sugar and margarine until light and fluffy.
+        \n 3. Beat in eggs and vanilla.
+        \n 4. Mix in the rest of the ingredients, except for powdered sugar and milk. Stir until well blended.
+        \n 5. Drop on cookie sheet and bake 9 to 12 minutes.
+        \n 6. Mix powdered sugar and milk in small bowl and drizzle over cooled cookies.
+    </string>
+    <string name="icecream">Sweetened frozen food typically eaten as a snack or dessert.
+     \n\n <font size="22"><b>Ingredients : </b></font>
+        \n 3/4 cup white sugar
+        \n 1 cup heavy whipping cream
+        \n 2 1/4 cups milk
+        \n 2 teaspoons vanilla extract
+        \n\n <font size="22"><b>How to Make : </b></font>
+        \n 1. Stir sugar, cream, and milk into a saucepan over low heat until sugar has dissolved. Heat just until mix is hot and a small ring of foam appears around the edge.
+        \n 2. Transfer cream mixture to a pourable container such as a large measuring cup. Stir in vanilla extract and chill mix thoroughly, at least 2 hours. (Overnight is best.)
+        \n 3. Pour cold ice cream mix into an ice cream maker, turn on the machine, and churn according to manufacturer\'s directions, 20 to 25 minutes.
+        \n 4. When ice cream is softly frozen, serve immediately or place a piece of plastic wrap directly on the ice cream and place in freezer to ripen, 2 to 3 hours.
+    </string>
+    <string name="salad">Dish consisting of a mixture of small pieces of food, usually vegetables or fruit.
+        \n\n <font size="22"><b>Ingredients : </b></font>
+        \n 8 cups broccoli florets
+        \n 3 cooked skinless, boneless chicken breast halves, cubed
+        \n 1 cup chopped walnuts
+        \n 6 green onions, chopped
+        \n 1 cup mayonnaise
+        \n ¼ cup apple cider vinegar
+        \n ¼ cup white sugar
+        \n ¼ cup crumbled cooked bacon
+        \n\n <font size="22"><b>How to Make : </b></font>
+        \n 1. Combine broccoli, chicken, walnuts, and green onions in a large bowl.
+        \n 2. Whisk mayonnaise, vinegar, and sugar together in a bowl until well blended.
+        \n 3. Pour mayonnaise dressing over broccoli mixture; toss to coat.
+        \n 4. Cover and refrigerate until chilled, if desired. Sprinkle with crumbled bacon to serve.
+    </string>
+    <string name="pie">Baked dish which is usually made of a pastry dough casing that completely contains a filling of various sweet or savoury ingredients.
+        \n\n <font size="22"><b>Ingredients : </b></font>
+        \n 1 recipe pastry for a 9 inch double crust pie
+        \n 1/2 cup unsalted butter
+        \n 3 tablespoons all-purpose flour
+        \n 1/4 cup water
+        \n 1/2 cup white sugar
+        \n 1/2 cup packed brown sugar
+        \n 8 Granny Smith apples - peeled, cored and sliced
+        \n\n <font size="22"><b>How to Make : </b></font>
+        \n 1. Preheat oven to 425 degrees F (220 degrees C). Melt the butter in a saucepan. Stir in flour to form a paste. Add water, white sugar and brown sugar, and bring to a boil. Reduce temperature and let simmer.
+        \n 2. Place the bottom crust in your pan. Fill with apples, mounded slightly. Cover with a lattice work crust. Gently pour the sugar and butter liquid over the crust. Pour slowly so that it does not run off.
+        \n 3. Bake 15 minutes in the preheated oven. Reduce the temperature to 350 degrees F (175 degrees C). Continue baking for 35 to 45 minutes, until apples are soft.
+    </string>
+    <string name="cream">Used as an ingredient in many foods, including ice cream, many sauces, soups, stews, puddings, and some custard bases, and is also used for cakes.
+        \n\n <font size="22"><b>Ingredients : </b></font>
+        \n 3⁄4 cup (180 mL) cold milk (2% or whole)
+        \n ⅓ cup (75 g) unsalted butter
+        \n\n <font size="22"><b>How to Make : </b></font>
+        \n 1. Melt the unsalted butter in a saucepan over low-heat. Place ⅓ cup (75 g) of unsalted butter into a saucepan. Turn the heat up to low, and wait for the butter to melt; you can stir it occasionally with a spoon or rubber spatula.
+        \n 2. Stir 1 tablespoon (15 mL) of the melted butter into the cold milk. This is known as "tempering" and is very important. If you pour all of the melted butter into the milk at once, the milk will heat up too fast and curdle
+        \n 3. Pour the milk into the rest of the butter and cook it over low-heat. Pour the tempered milk into the saucepan containing the rest of the butter. Turn the heat up to low and wait for the milk to heat up, stirring it often with a whisk. Once the milk starts to steam, you are ready for the next step.
+        \n 4. Mix the cream until it thickens.
+        \n 5. Keep the cream in the fridge and use it within 1 week.
+    </string>
+    <string name="choco">Brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods.
+    \n\n <font size="22"><b>Ingredients : </b></font>
+        \n 1 cup (100 g) cocoa powder
+        \n 1⁄2 cup (120 mL) coconut oil
+        \n 4 tablespoons (59 mL) honey
+        \n 1⁄2 tablespoon (7.4 mL) vanilla extract
+        \n ¼ cup (25 g) confectioner’s sugar, 1⁄4 cup (59 mL) agave syrup, or 3-6 drops liquid stevia (optional)
+        \n\n <font size="22"><b>How to Make : </b></font>
+        \n 1. Melt 1⁄2 cup (120 mL) of coconut oil in a small pot over low heat. Turn on your cooktop to the lowest heat setting and add the coconut oil to the pot. Allow it to melt completely. Coconut oil has a low melting point, so this should only take a few seconds.
+        \n 2. Add 4 tbsp (59 mL) of honey and ½ tbsp (7.4 mL) of vanilla extract. Use a whisk or metal spoon to scrape the sticky honey into the pot. Then, drizzle in the vanilla. Stir the ingredients into the melted oil until they dissolve and form a thin, syrupy mixture.
+        \n 3. Sift in 1 cup (100 g) of cocoa powder gradually. Rather than dumping all of the cocoa powder in at once, add it a little at a time. As you do, keep your whisk or spoon moving to help distribute the cocoa powder evenly throughout the mixture.
+        \n 4. Take the chocolate off of the heat and continue stirring it as it thickens. You’ll know your chocolate is done when the chocolate takes on a smooth, dark color and the surface becomes slightly glossy. At this point, it just needs to be left to harden.
+        \n 5. Transfer the warm chocolate to a nonstick surface to cool. Carefully pour the chocolate out of the pot and onto a flexible nonstick baking mat or cookie sheet lined with parchment paper. Use a spatula to spread the chocolate about 1⁄2 inch (1.3 cm) thick.
+        \n 6. Refrigerate your chocolate for 1 hour before enjoying it.
+    </string>
+    <string name="cake">Form of sweet food made from flour, sugar, and other ingredients, that is usually baked.In their oldest forms.
+        \n\n <font size="22"><b>Ingredients : </b></font>
+        \n 2 cups white sugar
+        \n 1 1/4 cups vegetable oil
+        \n 1 teaspoon vanilla extract
+        \n 2 cups canned pumpkin
+        \n 4 eggs
+        \n 2 cups all-purpose flour
+        \n 3 teaspoons baking powder
+        \n 2 teaspoons baking soda
+        \n 1/4 teaspoon salt
+        \n 2 teaspoons ground cinnamon
+        \n 1 cup chopped walnuts (optional)
+        \n\n <font size="22"><b>How to Make : </b></font>
+        \n 1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 12x18 inch pan. Sift together the flour, baking powder, baking soda, salt and cinnamon. Set aside.
+        \n 2. In a large bowl combine sugar and oil. Blend in vanilla and pumpkin, then beat in eggs one at a time. Gradually beat in flour mixture. Stir in nuts. Spread batter into prepared 12x18 inch pan.
+        \n 3. Bake in the preheated oven for 30 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool.
+    </string>
+    <string name="gelato">Popular frozen dessert of Italian origin. It is generally made with a base of 3.25% milk and sugar
+         \n\n <font size="22"><b>Ingredients : </b></font>
+            \n 3 cups [750 ml] whole milk
+            \n 5 egg yolks (from large eggs, about 20 grams each)
+            \n ¾ cup [180 ml] granulated sugar
+            \n 1 vanilla bean, split lengthwise
+         \n\n <font size="22"><b>How to Make : </b></font>
+            \n 1. In a saucepan, warm the milk over medium heat until it just starts to bubble around the edge (no need to bring it to a boil). Remove from the heat and reserve.
+            \n 2. In the bowl of a stand mixer, or in a large mixing bowl if you’re using a hand mixer, beat the egg yolks and sugar together until the mixture is thick and creamy (about 2 minutes at medium speed). With the mixer on low speed, slowly pour in one ladleful of the hot milk into the egg mixture. Slowly pour in the rest of the mixture and beat until the milk is well incorporated.
+            \n 3. Pour the milk and egg mixture back into the saucepan, add the vanilla bean, and place over medium-low heat and cook, stirring constantly, until the custard coats the back of a wooden spoon.
+            \n 4. Remove from the heat. Let cool to room temperature, then refrigerate for a few hours, or preferably overnight so the vanilla bean infuses fully.
+            \n 5. Fish the vanilla bean out of the custard, then pour the custard through a fine mesh strainer into the bowl of an ice cream maker (straining the mixture will ensure a silky smooth gelato). Freeze according to the manufacturer’s instructions. Stop the machine when the gelato is icy but still soft.
+            \n 6. Transfer the gelato to an airtight container and freeze until firm, about two hours. The gelato will keep, frozen, for up to two weeks. Always take the gelato out to room temperature 10 to 15 minutes before serving to soften it and make it easier to scoop.
+    </string>
+
+    <string name="Clarenti_Celsia">Clarenti Celsia</string>
+    <string name="email">clarentic@mhs.mdp.ac.id</string>
+    <string name="about">About</string>
+    <string name="name">Name</string>
+    <string name="detail">detail</string>
+    <string name="prep"> <b>Prep</b></string>
+    <string name="cooks"><b>Cook</b></string>
+    <string name="ready"><b>Ready In </b></string>
+
+
+</resources>
